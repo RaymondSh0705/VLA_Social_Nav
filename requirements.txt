@@ -1,3 +1,20 @@
+# extractbag.py
 opencv-python==5.0.0.93
 numpy==2.5.3
 rosbags==0.11.5
+
+# cosmos3import.ipynb / initial-inference.ipynb
+diffusers @ git+https://github.com/huggingface/diffusers.git
+vllm[omni]
+accelerate
+av
+cosmos_guardrail
+huggingface_hub
+imageio
+imageio-ffmpeg
+openai
+pillow
+requests
+torch
+torchvision
+transformers
